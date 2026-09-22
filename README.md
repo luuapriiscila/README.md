@@ -132,12 +132,18 @@ luanna = Luanna()
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luuapriiscila&show_icons=true&theme=transparent&title_color=353A31&icon_color=A9754F&text_color=555555&border_color=353A31&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luuapriiscila&theme=transparent&hide_border=false&stroke=353A31&ring=A9754F&fire=A9754F&currStreakLabel=353A31" width="48%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuapriiscila&layout=compact&theme=transparent&title_color=353A31&text_color=555555&border_color=353A31&hide_border=false" width="48%"/>
+🌱 &nbsp;*um retrato da minha jornada por aqui* &nbsp;🌱
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=luuapriiscila&show_icons=true&theme=transparent&title_color=353A31&icon_color=A9754F&text_color=6B6355&border_color=C9A66B&hide_border=false&border_radius=14" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=luuapriiscila&theme=transparent&hide_border=false&stroke=353A31&ring=A9754F&fire=A9754F&currStreakLabel=353A31&sideLabels=6B6355&dates=6B6355&border_radius=14" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuapriiscila&layout=compact&theme=transparent&title_color=353A31&text_color=6B6355&border_color=C9A66B&hide_border=false&border_radius=14&langs_count=8" width="55%"/>
+
 </div>
 
 <br>
@@ -147,15 +153,22 @@ luanna = Luanna()
 
 <div align="center">
 
-<!-- 👉 Coloque aqui seus links de redes sociais (LinkedIn, Instagram, Behance, Portfólio, E-mail etc.) -->
-<!-- Exemplo de badge pronto pra usar, só trocar o link:
-<a href="SEU_LINK_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="SEU_LINK_AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="SEU_LINK_AQUI"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D35400?style=for-the-badge&logo=gmail&logoColor=white"/></a>
--->
+🌿 *Se identificou com meu perfil ou quer trocar uma ideia sobre tecnologia, design ou café? Meu cantinho está sempre de portas abertas.* 🌿
 
-`[ espaço reservado para os links de redes sociais ]`
+<br><br>
+
+<a href="mailto:luannatavares128@gmail.com">
+  <img src="https://img.shields.io/badge/Email-353A31?style=for-the-badge&logo=gmail&logoColor=EADBC8"/>
+</a>
+<a href="https://github.com/luuapriiscila">
+  <img src="https://img.shields.io/badge/GitHub-8A9A5B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://dev.to/luannapriscila">
+  <img src="https://img.shields.io/badge/DEV.to-C9A66B?style=for-the-badge&logo=devdotto&logoColor=353A31"/>
+</a>
+<a href="https://www.linkedin.com/in/luanna-priscila-a935143b3">
+  <img src="https://img.shields.io/badge/LinkedIn-A9754F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -163,8 +176,8 @@ luanna = Luanna()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADBC8,50:C9A66B,100:353A31&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADBC8,50:C9A66B,100:353A31&height=130&section=footer" width="100%"/>
 
-<sub>obrigada pela visita — volte sempre! 🌿</sub>
+<sub>🌸 feito com carinho, café e algumas linhas de código &nbsp;·&nbsp; obrigada pela visita, volte sempre! 🌿</sub>
 
 </div>
