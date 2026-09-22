@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=PRATHAM%20HARER&fontSize=52&fontColor=2ea043&fontAlignY=35&desc=AI%20%26%20ML%20ENGINEER%20%2F%20DATA%20SCIENTIST&descAlignY=78&descAlign=88&descSize=14&color=0d1117&stroke=2ea043&strokeWidth=2" width="100%" alt="PRATHAM HARER — AI & ML ENGINEER / DATA SCIENTIST" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=PRATHAM%20HARER&fontSize=52&fontColor=2ea043&fontAlignY=35&desc=AI%20%26%20ML%20ENGINEER%20%2F%20DATA%20SCIENTIST&descAlignY=75&descSize=18&color=242424&animation=fadeIn" width="100%" alt="PRATHAM HARER — AI and ML Engineer / Data Scientist" />
 </div>
 
 <h3>WHO I AM</h3>
@@ -31,12 +31,12 @@
       <td align="center"><b>Kaggle</b></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/pratham-harer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a></td>
-      <td align="center"><a href="https://x.com/prathamharer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a></td>
-      <td align="center"><a href="mailto:prathamharer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a></td>
-      <td align="center"><a href="https://prathamharer.dev"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=2ea043" alt="Website" /></a></td>
-      <td align="center"><a href="https://medium.com/@prathamharer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a></td>
-      <td align="center"><a href="https://www.kaggle.com/prathamharer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/pratham-harer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+      <td align="center"><a href="https://x.com/prathamharer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a></td>
+      <td align="center"><a href="mailto:prathamharer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
+      <td align="center"><a href="https://prathamharer.dev"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2ea043" alt="Website" /></a></td>
+      <td align="center"><a href="https://medium.com/@prathamharer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a></td>
+      <td align="center"><a href="https://www.kaggle.com/prathamharer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a></td>
     </tr>
   </table>
 </div>
@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=pratham-harer&amp;theme=green" width="100%" alt="GitHub 3D contribution graph" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=pratham-harer&theme=green" width="100%" alt="GitHub 3D contribution graph" />
   <p><b>486 contributions</b></p>
 </div>
 
