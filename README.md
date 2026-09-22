@@ -53,12 +53,12 @@ luanna = Luanna()
 
 <div align="center">
 
-| Idioma | Nível | Progresso |
-|:------:|:-----:|:---------:|
-| 🇧🇷 Português | Nativo | ![](https://progress-bar.dev/100/?color=353A31) |
-| 🇺🇸 Inglês | Intermediário | ![](https://progress-bar.dev/60/?color=8A9A5B) |
-| 🇪🇸 Espanhol | Iniciante | ![](https://progress-bar.dev/25/?color=C9A66B) |
-| 🇫🇷 Francês | Iniciante | ![](https://progress-bar.dev/25/?color=C9A66B) |
+| Idioma | Nível | Status |
+|:---:|:---:|:---:|
+| <img src="https://flagcdn.com/28x21/br.png" width="22"/> &nbsp;**Português** | ![Nativo](https://img.shields.io/badge/Nativo-353A31?style=flat-square) | 🌳 &nbsp;consolidado |
+| <img src="https://flagcdn.com/28x21/us.png" width="22"/> &nbsp;**Inglês** | ![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-8A9A5B?style=flat-square) | 🌱 &nbsp;em processo |
+| <img src="https://flagcdn.com/28x21/es.png" width="22"/> &nbsp;**Espanhol** | ![Iniciante](https://img.shields.io/badge/Iniciante-C9A66B?style=flat-square) | 🌱 &nbsp;em processo |
+| <img src="https://flagcdn.com/28x21/fr.png" width="22"/> &nbsp;**Francês** | ![Iniciante](https://img.shields.io/badge/Iniciante-C9A66B?style=flat-square) | 🌱 &nbsp;em processo |
 
 </div>
 
