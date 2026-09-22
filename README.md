@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,50:B5A8D5,100:9CADCE&height=220&section=header&text=Oi,%20eu%20sou%20a%20Luanna!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20%7C%20Dev%20%2B%20Design&descAlignY=55&descSize=18" width="100%"/>
+<!-- 👉 Banner: suba o arquivo do gif para uma pasta "assets" no seu repositório
+     (ex: assets/download(1).gif) e o caminho abaixo já vai funcionar sozinho -->
+<img src="assets/download(1).gif" width="100%"/>
+
+<h2>Oi, eu sou a Luanna! 👋</h2>
+<sub>Análise e Desenvolvimento de Sistemas | Dev + Design</sub>
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B5A8D5&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%92%BB;Desenvolvedora+%2B+Designer+%F0%9F%8E%A8;Apaixonada+por+tecnologia+e+criatividade+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%8C%B1" alt="Typing SVG" />
