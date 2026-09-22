@@ -2,7 +2,7 @@
 
 <!-- 👉 Banner: suba o arquivo do gif para uma pasta "assets" no seu repositório
      (ex: assets/download(1).gif) e o caminho abaixo já vai funcionar sozinho -->
-<img src="assets/download(1).gif" width="100%"/>
+<img src="assets/download (1).gif" width="100%"/>
 
 <h2>Oi, eu sou a Luanna! 👋</h2>
 <sub>Análise e Desenvolvimento de Sistemas | Dev + Design</sub>
