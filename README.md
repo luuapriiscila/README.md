@@ -4,8 +4,8 @@
      (ex: assets/download.gif) e o caminho abaixo já vai funcionar sozinho -->
 <img src="assets/download (2).gif" width="100%"/>
 
-<h2>Oi, eu sou a Luanna! 👋</h2>
-<sub>Análise e Desenvolvimento de Sistemas | Dev + Design</sub>
+<h2>Olá, eu sou a Luanna! 👋</h2>
+<sub>Estudo Análise e Desenvolvimento de Sistemas | Cibersegurança | DEV FULL-STACK | UX UI </sub>
 
 <br><br>
 
