@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 👉 Banner: suba o arquivo do gif para uma pasta "assets" no seu repositório
-     (ex: assets/download.gif)  e o caminho abaixo já vai funcionar sozinho -->
+     (ex: assets/download.gif) e o caminho abaixo já vai funcionar sozinho -->
 <img src="assets/download.gif" width="100%"/>
 
 <h2>Oi, eu sou a Luanna! 👋</h2>
