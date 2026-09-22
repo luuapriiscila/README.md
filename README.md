@@ -69,27 +69,34 @@ luanna = Luanna()
 
 <div align="center">
 
-**Linguagens de Programação**
+**💻 Linguagens de Programação**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,mysql,postgres&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,html,css,mysql,postgres&theme=light" />
 
 <br><br>
 
-**Inteligência Artificial**
+**🤖 Inteligência Artificial**
 
 <img src="https://img.shields.io/badge/Claude-353A31?style=for-the-badge&logo=anthropic&logoColor=EADBC8"/>
 <img src="https://img.shields.io/badge/Gemini-8A9A5B?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-C9A66B?style=for-the-badge&logo=openai&logoColor=353A31"/>
+<img src="https://img.shields.io/badge/Copilot-A9754F?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
 <br><br>
 
-**Design & Criação**
+**🎨 Design & Criação**
 
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,id,xd,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=light" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Filmora-353A31?style=for-the-badge&logo=wondersharefilmora&logoColor=EADBC8"/>
+<img src="https://img.shields.io/badge/Canva-8A9A5B?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <br><br>
 
-**Produtividade**
+**🗂️ Produtividade**
 
+<img src="https://skillicons.dev/icons?i=notion&theme=light" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pacote_Office-A9754F?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
 </div>
