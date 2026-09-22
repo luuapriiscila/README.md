@@ -1,99 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0d1117,100:2ea043&height=200&section=header&text=LUANNA%20PRISCILA&fontSize=42&fontColor=39d353&fontAlignY=40&desc=ESTUDANTE%20DE%20AN%C3%81LISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS&descSize=16&descAlignY=60&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Hey%20Everyone%20,%20I'm%20Luanna%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=45&section=header&text=💻%20Welcome%20to%20My%20GitHub%20Universe!&fontSize=18&fontColor=ffffff" />
 
 </div>
 
-<br>
-
-## 🟢 QUEM SOU EU
-
-Olá, sou a Luanna — estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por transformar ideias em código e aprender algo novo todos os dias. Estou construindo minha base como desenvolvedora e explorando diferentes áreas da programação.
-
-## 🟢 O QUE FAÇO
-
-Estudo lógica de programação, desenvolvimento web e fundamentos de ciência da computação. Gosto de resolver problemas, entender como as coisas funcionam por trás dos panos e transformar teoria em projetos práticos.
-
-## 🟢 VISÃO
-
-Meu objetivo é crescer como desenvolvedora, contribuir com projetos que façam diferença e nunca parar de aprender. Cada linha de código é um passo a mais na jornada.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Aprendendo e desenvolvendo com **Python, JavaScript, HTML, CSS e C++**
+- 🚀 Focada em aprender e evoluir na programação todos os dias
+- 🤝 Aberta a colaboração e novos projetos
+- 📫 Sempre disposta a trocar ideia sobre tecnologia
 
 <br>
 
-<div align="center">
+<p align="left">
+  <a href="mailto:luannatavares128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luanna-priscila-a935143b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/luuapriiscila" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://dev.to/luannapriscila" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://wa.me/5561985090854" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-### 🔗 CONECTE-SE COMIGO
+<img src="https://komarev.com/ghpvc/?username=luuapriiscila&label=Visitors&color=blueviolet&style=flat" />
 
-<table>
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/luanna-priscila-a935143b3" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-</td>
-<td align="center">
-<a href="mailto:luannatavares128@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-</td>
-<td align="center">
-<a href="https://dev.to/luannapriscila" target="_blank">
-<img src="https://img.shields.io/badge/-DEV.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=ffffff" />
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/luuapriiscila" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-</td>
-</tr>
-</table>
+<br><br>
 
-</div>
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
 <br>
 
-## 🟢 ESTATÍSTICAS
+## 📊 Estatísticas
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luuapriiscila&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luuapriiscila&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=luuapriiscila&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=c9d1d9&ring_color=2ea043" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuapriiscila&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" width="38%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luuapriiscila&hide_border=true&background=0d1117&stroke=2ea043&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" width="70%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuapriiscila&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 <br>
 
-## 🟢 GRÁFICO 3D DE CONTRIBUIÇÕES
+## 🏆 Troféus
 
-<div align="center">
-
-<!--START_SECTION:profile-3d-contrib-->
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-<!--END_SECTION:profile-3d-contrib-->
-
-</div>
-
-> ⚠️ Este gráfico só aparece **depois** que você ativar a GitHub Action (veja instruções abaixo).
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luuapriiscila&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 <br>
 
-## 🟢 SKILL SET
+## 📈 Gráfico de Contribuições
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:2ea043,100:0d1117&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luuapriiscila&theme=react-dark&hide_border=true" />
+</p>
 
 </div>
