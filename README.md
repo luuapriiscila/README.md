@@ -1,16 +1,22 @@
 <div align="center">
 
-<!-- 👉 Banner: suba o arquivo do gif para uma pasta "assets" no seu repositório
-     (ex: assets/download.gif) e o caminho abaixo já vai funcionar sozinho -->
+<!-- 👉 Banner: suba o arquivo "download.gif" (já cortado em formato faixa) para uma pasta
+     "assets" no seu repositório (ex: assets/download.gif) e o caminho abaixo já funciona sozinho -->
 <img src="assets/download (2).gif" width="100%"/>
 
-<h2>Olá, eu sou a Luanna! 👋</h2>
-<sub>Estudo Análise e Desenvolvimento de Sistemas | Cibersegurança | DEV FULL-STACK | UX UI </sub>
+<h1>🌿 Olá, eu sou a Luanna! 👋</h1>
+
+<br>
+
+<img src="https://img.shields.io/badge/🖥️-An%C3%A1lise%20%26%20Desenvolvimento%20de%20Sistemas-353A31?style=for-the-badge&labelColor=EADBC8"/>
+<img src="https://img.shields.io/badge/🔐-Ciberseguran%C3%A7a-353A31?style=for-the-badge&labelColor=EADBC8"/>
+<img src="https://img.shields.io/badge/💻-Dev%20Full--Stack-353A31?style=for-the-badge&labelColor=EADBC8"/>
+<img src="https://img.shields.io/badge/🎨-UX%2FUI-353A31?style=for-the-badge&labelColor=EADBC8"/>
 
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B5A8D5&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%92%BB;Desenvolvedora+%2B+Designer+%F0%9F%8E%A8;Apaixonada+por+tecnologia+e+criatividade+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=353A31&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+%F0%9F%8C%B1;Curiosa+por+Ciberseguran%C3%A7a+%F0%9F%94%90;Dev+Full-Stack+%2B+UX%2FUI+%F0%9F%96%A5%EF%B8%8F;Apaixonada+por+tecnologia+e+criatividade+%F0%9F%8D%83" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,15 +24,16 @@
 <br>
 
 <!-- ============ SOBRE MIM ============ -->
-## 🌸 `sobre_mim.py`
+## 🪴 `sobre_mim.py`
 
 ```python
 class Luanna:
     def __init__(self):
         self.nome = "Luanna Priscila"
         self.curso = "Análise e Desenvolvimento de Sistemas"
+        self.interesses = ["Cibersegurança", "Dev Full-Stack", "UX/UI"]
         self.area = ["Desenvolvimento", "Ilustração", "Design", "Copywriting"]
-        self.status = "🚀 em constante evolução"
+        self.status = "🌱 em constante crescimento"
 
     def curiosidades(self):
         return [
@@ -48,10 +55,10 @@ luanna = Luanna()
 
 | Idioma | Nível | Progresso |
 |:------:|:-----:|:---------:|
-| 🇧🇷 Português | Nativo | ![](https://progress-bar.dev/100/?color=B5A8D5) |
-| 🇺🇸 Inglês | Intermediário | ![](https://progress-bar.dev/60/?color=9CADCE) |
-| 🇪🇸 Espanhol | Iniciante | ![](https://progress-bar.dev/25/?color=F7CAC9) |
-| 🇫🇷 Francês | Iniciante | ![](https://progress-bar.dev/25/?color=F7CAC9) |
+| 🇧🇷 Português | Nativo | ![](https://progress-bar.dev/100/?color=353A31) |
+| 🇺🇸 Inglês | Intermediário | ![](https://progress-bar.dev/60/?color=8A9A5B) |
+| 🇪🇸 Espanhol | Iniciante | ![](https://progress-bar.dev/25/?color=C9A66B) |
+| 🇫🇷 Francês | Iniciante | ![](https://progress-bar.dev/25/?color=C9A66B) |
 
 </div>
 
@@ -70,8 +77,8 @@ luanna = Luanna()
 
 **Inteligência Artificial**
 
-<img src="https://img.shields.io/badge/Claude-B5A8D5?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-9CADCE?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-353A31?style=for-the-badge&logo=anthropic&logoColor=EADBC8"/>
+<img src="https://img.shields.io/badge/Gemini-8A9A5B?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 <br><br>
 
@@ -83,7 +90,7 @@ luanna = Luanna()
 
 **Produtividade**
 
-<img src="https://img.shields.io/badge/Pacote_Office-D35400?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pacote_Office-A9754F?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
 </div>
 
@@ -96,6 +103,9 @@ luanna = Luanna()
 <tr>
 <td align="center" width="150">
 💻<br><b>Desenvolvimento</b><br><sub>lógica, back-end & mais</sub>
+</td>
+<td align="center" width="150">
+🔐<br><b>Cibersegurança</b><br><sub>boas práticas & proteção</sub>
 </td>
 <td align="center" width="150">
 🎨<br><b>Ilustração</b><br><sub>arte digital & pixel art</sub>
@@ -115,12 +125,12 @@ luanna = Luanna()
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luuapriiscila&show_icons=true&theme=transparent&title_color=B5A8D5&icon_color=F7CAC9&text_color=555555&border_color=B5A8D5&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luuapriiscila&theme=transparent&hide_border=false&stroke=B5A8D5&ring=F7CAC9&fire=F7CAC9&currStreakLabel=B5A8D5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luuapriiscila&show_icons=true&theme=transparent&title_color=353A31&icon_color=A9754F&text_color=555555&border_color=353A31&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luuapriiscila&theme=transparent&hide_border=false&stroke=353A31&ring=A9754F&fire=A9754F&currStreakLabel=353A31" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuapriiscila&layout=compact&theme=transparent&title_color=B5A8D5&text_color=555555&border_color=B5A8D5&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuapriiscila&layout=compact&theme=transparent&title_color=353A31&text_color=555555&border_color=353A31&hide_border=false" width="48%"/>
 </div>
 
 <br>
@@ -146,8 +156,8 @@ luanna = Luanna()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CADCE,50:B5A8D5,100:F7CAC9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADBC8,50:C9A66B,100:353A31&height=120&section=footer" width="100%"/>
 
-<sub>obrigada pela visita — volte sempre! 🌷</sub>
+<sub>obrigada pela visita — volte sempre! 🌿</sub>
 
 </div>
